@@ -9,7 +9,7 @@ describe("Google Search Tests", function() {
   });
 
   // smoke test
-  it("should search for a site", function() {
+  it("should add numbers", function() {
     samplePage.button.click()
 
     let field1
